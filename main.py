@@ -6,4 +6,3 @@ if weight[-2:]＝＝＂kg＂:
 elif weight[-2:]=="pd":
   m=eval(weight[0:2])/2.2046
   print("对应的公制重量为{:.3f}千克".format(m))
-
